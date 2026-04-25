@@ -13,7 +13,7 @@ The average accuracy of the model "model_40.pth" is around 66% (Having trained f
 3. If you wanna to use your GPU-RTX50+ to train the model (having applied the code "XXX.coda()"), ensure that the version of the Coda is no less than 12.8.
    If the version does not satisfy, please download Conda 12.8 from the website:
 
-4. After tip 2, Ensure that the version of Pytorch meets the requirement of Conda.
+4. After Step 3, Ensure that the version of Pytorch meets the requirement of Conda.
    If not, input these two commands into your terminal to update your Pytorch to 12.8:
        (1) pip uninstall torch torchvision torchaudio
        (2) pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
