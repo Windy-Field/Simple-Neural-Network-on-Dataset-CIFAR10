@@ -7,7 +7,7 @@ The average accuracy of the model "model_40.pth" is around 66% (Having trained f
 1. You must construct the environment of Pytorch and some necessary dependencies beforehand.
    The instruction of constructing the environment of this programme: https://www.bilibili.com/list/watchlater?oid=74281036&bvid=BV1hE411t7RN.
 
-2. After constructing the environment, you can download these 4 files: "Train.py", "Test.py", "model_40.pth" and "imgs"(unzip) to run and play.
+2. After constructing the environment, you can download these 4 files: "Train.py", "Test.py", "model_40.pth" and "imgs.zip"(unzip) to run and play.
    You can add some test samples (dogs, cats, aeroplanes etc.) to the "imgs" folder as well.
    The other "XXX.py" files are my study notes, which are not necessary.
 
