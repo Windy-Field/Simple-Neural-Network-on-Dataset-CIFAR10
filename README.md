@@ -1,6 +1,6 @@
 # Simple-Neutral-Network-on-Dataset-CIFAR10
-A simple nn model dividing some pictures into 10 categories (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck)
-The average accuracy of the model "model_40.pth" is around 66% (Having trained for 40 epoches)
+A simple nn model dividing some pictures into 10 categories (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck).
+The average accuracy of the model "model_40.pth" is around 66% (Having trained for 40 epoches).
 
 [READ] Attention:
 1. The instruction of constructing the environment of this programme: https://www.bilibili.com/list/watchlater?oid=74281036&bvid=BV1hE411t7RN
