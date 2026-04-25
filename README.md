@@ -3,11 +3,12 @@ A very simple NN model dividing Dataset CIFAR10 into 10 different categories [ai
 Studying from the course: https://www.bilibili.com/list/watchlater?oid=74281036&bvid=BV1hE411t7RN.
 The average accuracy of the model "model_40.pth" is around 66% (Having trained for 40 epoches).
 
-[README] Attention:
-1. The instruction of constructing the environment of this programme: https://www.bilibili.com/list/watchlater?oid=74281036&bvid=BV1hE411t7RN.
+[README] ATTENTION:
+1. You must construct the environment of Pytorch and some necessary dependencies beforehand.
+   The instruction of constructing the environment of this programme: https://www.bilibili.com/list/watchlater?oid=74281036&bvid=BV1hE411t7RN.
 
-2. After constructing the environment, you can download these 3 files: "Train.py", "Test.py" and "model_40.pth" to run and play.
-   Note that you shall also create a folder named "imgs" in your running folder and prepare some test pictures (dogs, cats, aeroplanes etc.) beforehand.
+2. After constructing the environment, you can download these 4 files: "Train.py", "Test.py", "model_40.pth" and "imgs"(unzip) to run and play.
+   You can add some test samples (dogs, cats, aeroplanes etc.) to the "imgs" folder as well.
    The other "XXX.py" files are my study notes, which are not necessary.
 
 3. If you wanna to use your GPU-RTX50+ to train the model (having applied the code "XXX.coda()"), ensure that the version of the Cuda is no less than 12.8.
